@@ -1,5 +1,5 @@
-**Professors Appointment Planner
-**
+**Professors Appointment Planner**
+
 Problem it Solves
 
 Students often struggle to keep track of professors’ office hours, class meetups, and ad-hoc availability. Office hours are posted  which makes it confusing and time-consuming for students to find the right time to connect with their professors.
