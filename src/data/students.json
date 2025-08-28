@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Sophia",
+        "email": "sop@seattleu.edu",
+        "deptId": 1
+    },
+    {
+        "id": 2,
+        "name": "Erica",
+        "email": "erica@seattleu.edu",
+        "deptId": 2
+    },
+    {
+        "id": 3,
+        "name": "Dashwitha",
+        "email": "dash@seattleu.edu",
+        "deptId": 1
+    },
+    {
+        "id": 4,
+        "name": "Gow",
+        "email": "gaumata@seattleu.edu",
+        "deptId": 1
+    },
+    {
+        "id": 5,
+        "name": "Billey",
+        "email": "bil@seattleu.edu",
+        "deptId": 2
+    }
+]

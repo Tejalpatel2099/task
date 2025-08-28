@@ -1,0 +1,45 @@
+[
+    {
+        "id": 1,
+        "name": "Prof. Mckee",
+        "deptId": 1,
+        "coursesId": [
+            1,
+            2
+        ],
+        "email": "mckee@seattleu.edu",
+        "officeLocation": "CS120"
+    },
+    {
+        "id": 2,
+        "name": "Prof.Rebecca",
+        "deptId": 1,
+        "coursesId": [
+            4,
+            5
+        ],
+        "email": "rebecca@seattleu.edu",
+        "officeLocation": "BANNCS210"
+    },
+    {
+        "id": 3,
+        "name": "Prof.Adikari",
+        "deptId": 2,
+        "coursesId": [
+            3
+        ],
+        "email": "adkari@useattlu.edu",
+        "officeLocation": "SIN310"
+    },
+    {
+        "id": 4,
+        "name": "Prof.Zhao",
+        "deptId": 1,
+        "coursesId": [
+            6,
+            8
+        ],
+        "email": "zhao@seattleu.edu",
+        "officeLocation": "BANN330"
+    }
+]

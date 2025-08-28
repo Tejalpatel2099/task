@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "professorId": 1,
+    "studentId": 3,
+    "date": "2025-08-28",
+    "time": "09:00 AM",
+    "type": "virtual",
+    "notes": "casual"
+  }
+]

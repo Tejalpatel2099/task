@@ -1,0 +1,69 @@
+[
+    {
+        "id": 1,
+        "name": "Fundamentals of Computer Science",
+        "deptId": 1,
+        "offered": [
+            "Fall",
+            "Winter",
+            "Spring"
+        ],
+        "credits": 5
+    },
+    {
+        "id": 2,
+        "name": "Data Structures and Algorithms",
+        "deptId": 1,
+        "offered": [
+            "Fall",
+            "Spring"
+        ],
+        "credits": 4
+    },
+    {
+        "id": 3,
+        "name": "Discrete Structures",
+        "deptId": 2,
+        "offered": [
+            "Winter",
+            "Spring"
+        ],
+        "credits": 3
+    },
+    {
+        "id": 4,
+        "name": "Database Systems",
+        "deptId": 1,
+        "offered": [
+            "Fall"
+        ],
+        "credits": 4
+    },
+    {
+        "id": 5,
+        "name": "Operating Systems",
+        "deptId": 1,
+        "offered": [
+            "Winter"
+        ],
+        "credits": 4
+    },
+    {
+        "id": 6,
+        "name": "Software Engineering",
+        "deptId": 1,
+        "offered": [
+            "Spring"
+        ],
+        "credits": 4
+    },
+    {
+        "id": 7,
+        "name": "Artificial Intelligence",
+        "deptId": 1,
+        "offered": [
+            "Spring"
+        ],
+        "credits": 4
+    }
+]
