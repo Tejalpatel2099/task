@@ -1,12 +1,13 @@
-import { NextResponse } from "next/server";
+import { NextRequest, NextResponse } from "next/server";
 import { getAppointmentsByProfessorId } from "../../route";
 
 export async function GET(
-    req: Request,
-    { params }: { params: { id: string } }
+    request: NextRequest,
+    context: { params: Promise<{ id: string }> }
 ) {
     try {
-        const professorId = Number(params.id);
+        const { id } = await context.params;
+        const professorId = Number(id);
 
         if (!professorId) {
             return NextResponse.json(
